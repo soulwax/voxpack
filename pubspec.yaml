@@ -1,0 +1,11 @@
+name: voxpack
+description: "Pure Dart Virtual File System, chunked binary PAK archive reader/writer with CRC32 & RLE codec, and versioned save schema migrations."
+version: 0.1.0
+repository: https://github.com/soulwax/voxpack
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
